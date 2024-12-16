@@ -1,7 +1,5 @@
 
 import Para from './Para'
-import TrailCard from './TrailCard'
-
 function PricingFaq() {
     return (
         <div className='wraper flex flex-col items-center gap-[50px] py-20 '>
