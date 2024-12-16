@@ -34,7 +34,7 @@ export default function Home() {
 
   return (
     <div className=" bg-white overflow-hidden" >
-
+      
       <header className="h-[136px] ">
         {/* uper header */}
         <TopNav topNavBg='bg-[#252B42]' />

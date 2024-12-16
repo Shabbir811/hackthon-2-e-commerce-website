@@ -83,7 +83,7 @@ function Contact() {
             <div className='flex justify-center items-center py-20 '>
                 <div className="flex flex-col gap-[36px] justify-center items-center ">
                     <h5 className="h5 text-[#252B42]">WE Can't WAIT TO MEET YOU</h5>
-                    <h1 className="h1 text-[#252B42]">Let’s Talk</h1>
+                    <h1 className="h1 text-[#252B42]">Let`s Talk</h1>
                     <button className='h-[52px] w-[186px] rounded-[5px] bg-[#23A6F0] btn-text text-white '>Try it free now</button>
                 </div>
             </div>

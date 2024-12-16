@@ -19,7 +19,7 @@ import LogoCard from '@/components/logCard'
 import Footer from '@/components/Footer'
 
 function Product(
-    { params }: { params: { product: string } }
+    // { params }: { params: { product: string } }
 ) {
     return (
         <div className='overflow-hidden'>
