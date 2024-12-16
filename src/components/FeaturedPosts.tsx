@@ -39,8 +39,8 @@ function FeaturedPosts() {
                             <p className='small text-[#737373] hover:text-[#8EC2F2] '>New</p>
 
                         </div>
-                        <h4 className="h4 text-[#252B42]">Loudest à la Madison #1 <br />(L'integral)</h4>
-                        <p className='para text-[#737373]'>We focus on ergonomics and meeting <br /> you where you work. It's only a <br />keystroke away.</p>
+                        <h4 className="h4 text-[#252B42]">Loudest à la Madison #1 <br />(Lintegral)</h4>
+                        <p className='para text-[#737373]'>We focus on ergonomics and meeting <br /> you where you work. Its only a <br />keystroke away.</p>
                         <div className="flex w-[298px] h-[46px] justify-center gap-16 py-[15px]">
                             <span className='flex'>
                                 <Image
@@ -91,8 +91,8 @@ function FeaturedPosts() {
                             <p className='small text-[#737373] hover:text-[#8EC2F2] '>New</p>
 
                         </div>
-                        <h4 className="h4 text-[#252B42]">Loudest à la Madison #1 <br />(L'integral)</h4>
-                        <p className='para text-[#737373]'>We focus on ergonomics and meeting <br /> you where you work. It's only a <br />keystroke away.</p>
+                        <h4 className="h4 text-[#252B42]">Loudest à la Madison #1 <br />(Lintegral)</h4>
+                        <p className='para text-[#737373]'>We focus on ergonomics and meeting <br /> you where you work. Its only a <br />keystroke away.</p>
                         <div className="flex w-[298px] h-[46px] justify-center gap-16 py-[15px]">
                             <span className='flex'>
                                 <Image
@@ -143,8 +143,8 @@ function FeaturedPosts() {
                             <p className='small text-[#737373] hover:text-[#8EC2F2] '>New</p>
 
                         </div>
-                        <h4 className="h4 text-[#252B42]">Loudest à la Madison #1 <br />(L'integral)</h4>
-                        <p className='para text-[#737373]'>We focus on ergonomics and meeting <br /> you where you work. It's only a <br />keystroke away.</p>
+                        <h4 className="h4 text-[#252B42]">Loudest à la Madison #1 <br />(Lintegral)</h4>
+                        <p className='para text-[#737373]'>We focus on ergonomics and meeting <br /> you where you work. Its only a <br />keystroke away.</p>
                         <div className="flex w-[298px] h-[46px] justify-center gap-16 py-[15px]">
                             <span className='flex'>
                                 <Image
